@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2020 Drew
+Copyright (c) 2020 Andrew Vigne, George Loubimov
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
