@@ -1,5 +1,5 @@
 """
-Authors: Andrew Vigne and George Loubimov
+Authors: Andrew Vigne, George Loubimov
 
 Script to quickly extract Re vs. AoA, Cl, and Cd
 for any given airfoil geometry using XFoil.
@@ -8,7 +8,6 @@ Made for Blade Element Momentum virtual disks.
 Created: 8/13/2020
 """
 
-# add support for DataFrame and pandas
 from subprocess import Popen, PIPE, STDOUT
 import numpy as np
 import itertools as itr
