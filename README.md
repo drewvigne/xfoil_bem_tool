@@ -60,7 +60,7 @@ When using virtual disks with Star-CCM+'s BEM solver, you are asked to load a CS
 ## Acknowledgments
 Thank you to this script's co-author, George Loubimov, who accelerated my learning of Python.
 
-## To Do
+## To do
 - Clean up code
 - Add non-convergence sensing
 - Reconfigure using DataFrame and pandas
