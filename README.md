@@ -11,11 +11,6 @@ XFoil BEM Tool was specifically made for my research project. While this was its
 - [Python 3.8.5](https://www.python.org/downloads/)
 - [Spyder IDE (preffered)](https://www.spyder-ide.org/)  
 
-### What's in the box
-- Installation guide
-- Python script
-- Example  
-
 ## Installation
 
 **1. XFoil**   
